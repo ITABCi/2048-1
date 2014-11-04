@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- 应用主题 -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+
+</resources>
